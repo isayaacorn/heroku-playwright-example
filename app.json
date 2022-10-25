@@ -1,5 +1,7 @@
 {
+    {
     "stack": "heroku-20"
+    }
     "buildpacks": [
         {
             "url": "https://github.com/mxschmitt/heroku-playwright-buildpack.git"
