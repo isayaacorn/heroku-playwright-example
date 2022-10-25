@@ -6,5 +6,6 @@
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs"
         }
+     "stack": "heroku-20"
     ]
 }
